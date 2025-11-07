@@ -1,0 +1,17 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "heliusKey": "YOUR_HELIUS_API_KEY",
+  "pollInterval": 500,
+  "defaultChannelId": "YOUR_DISCORD_CHANNEL_ID",
+  "settings": {
+    "maxTransactions": 5,
+    "showTransactionLinks": true,
+    "showWalletAddresses": true,
+    "logToConsole": true,
+    "embedColors": {
+      "buy": "#00ff9d",
+      "sell": "#ff0055",
+      "transfer": "#00bfff"
+    }
+  }
+}
